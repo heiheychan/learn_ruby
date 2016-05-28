@@ -19,7 +19,7 @@
 
 require "temperature"
 
-describe Temperature do
+describe "Temperature" do
 
   describe "can be constructed with an options hash" do
     describe "in degrees fahrenheit" do
